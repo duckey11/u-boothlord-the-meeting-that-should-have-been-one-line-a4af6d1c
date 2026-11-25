@@ -6,7 +6,7 @@ import os
 SENTENCE = (
     "After forty-five minutes, six people, and one dead whiteboard marker, "
     "the meeting's only outcome was scheduling another meeting to decide "
-    "what this meeting was supposed to decide."
+    "what this one was even for."
 )
 
 
